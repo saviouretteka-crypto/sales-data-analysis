@@ -1,6 +1,6 @@
 #  Sales Data Analysis
 
-A data analysis pipeline built with **Pandas**, **NumPy**, Matplotlib, and **Seaborn** that reads CSV data, cleans missing values, generates summary statistics, and produces publication-ready charts.
+A data analysis pipeline built with **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** that reads CSV data, cleans missing values, generates summary statistics, and produces publication-ready charts.
 
 ---
 
